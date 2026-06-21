@@ -7,4 +7,5 @@ build/
 bin/
 debug/
 release/
-
+code
+comp_helper
